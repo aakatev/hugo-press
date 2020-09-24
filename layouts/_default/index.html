@@ -1,0 +1,24 @@
+{{ define "main" }}
+  <!-- Learn more about variable scoping: https://gohugo.io/templates/partials/#variable-scoping -->
+  {{ partial "navbar" . }}
+  {{ partial "featured" . }}
+
+
+  <div class="row mb-2">
+    {{range $index, $element := first 2 (first 3 (where .Site.RegularPages.Reverse ".Params.featured" true)).Reverse}}
+      <div class="col-md-6">
+        <div class="row g-0 border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+          <div class="col p-4 d-flex flex-column position-static">
+            <strong class="d-inline-block mb-2 text-success">Design</strong>
+            <h3 class="mb-0">{{ $element.Title }}</h3>
+            <div class="mb-1 text-muted">Nov 11</div>
+            <a href="{{ $element.Permalink }}" class="stretched-link">Continue reading</a>
+          </div>
+          <div class="col-auto d-none d-lg-block">
+            <img width="200" height="250" src="{{ .Site.BaseURL }}tesla-post-{{ $index }}.jpg" class="img-fluid">
+          </div>
+        </div>
+      </div>
+    {{end}}
+  </div>
+{{ end }}

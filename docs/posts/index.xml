@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Hugo Press</title>
+    <link>https://aakatev.github.io/hugo-press/posts/</link>
+    <description>Recent content in Posts on Hugo Press</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aakatev.github.io/hugo-press/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Here’s how many Cybertrucks Tesla expects to build in Texas</title>
+      <link>https://aakatev.github.io/hugo-press/posts/how-many-cybertrucks-tesla-build/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakatev.github.io/hugo-press/posts/how-many-cybertrucks-tesla-build/</guid>
+      <description>Tesla’s next big product launch will be the Cybertruck, which is scheduled to enter production late next year at a new factory that&amp;rsquo;s currently under construction in Texas.
+The company received a flurry of reservations following its eventful unveiling event last November, when it’s “armor” glass was embarrassingly broken during a demonstration.
+“The orders are gigantic,” Musk told shareholders during the company’s Battery Day presentation on Tuesday.
+The Tesla CEO said the company “stopped counting” the “orders,” which are technically refundable reservations that required a $100 deposit, but that it has received over half a million and maybe 600,000, so far.</description>
+    </item>
+    
+    <item>
+      <title>Musk confirms Tesla was target of ransomware attack</title>
+      <link>https://aakatev.github.io/hugo-press/posts/elon-musk-confirms-tesla-was-target-of-foiled-ransomware-attack/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakatev.github.io/hugo-press/posts/elon-musk-confirms-tesla-was-target-of-foiled-ransomware-attack/</guid>
+      <description>Elon Musk called an attempted cyberattack against Tesla “serious,” a comment that confirms the company was the target of a foiled ransomware attempt at its massive factory near Reno, Nevada.
+The Justice Department released a complaint Thursday that described a thwarted malware attack against an unnamed company in Sparks, Nevada. Tesla has a factory in Sparks that makes battery cells, packs and electric motors; while Tesla was not named in the complaint, several blogs, including Electrek and Teslarati, reported that the company was the target.</description>
+    </item>
+    
+    <item>
+      <title>Tesla CEO Elon Musk Bets Big on Better Batteries</title>
+      <link>https://aakatev.github.io/hugo-press/posts/tesla-ceo-elon-musk-bets-big-on-better-batteries/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakatev.github.io/hugo-press/posts/tesla-ceo-elon-musk-bets-big-on-better-batteries/</guid>
+      <description>Tesla is working on new battery technology that CEO Elon Musk says will enable the company within the next three years to make sleeker, more affordable cars that can travel dramatically longer distances on a single charge.
+But the battery breakthroughs that Musk unveiled Tuesday at a highly anticipated event didn&amp;rsquo;t impress investors. They were hoping Tesla&amp;rsquo;s technology would mark an even bigger leap forward and propel the company&amp;rsquo;s soaring stock to even greater heights.</description>
+    </item>
+    
+    <item>
+      <title>Tesla expects approval for battery cells plant in Berlin</title>
+      <link>https://aakatev.github.io/hugo-press/posts/tesla-expects-approval-for-battery-cells-plant-in-berlin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakatev.github.io/hugo-press/posts/tesla-expects-approval-for-battery-cells-plant-in-berlin/</guid>
+      <description>BERLIN (Reuters) - Tesla expects to be able to press ahead with plans to build battery cells and battery packs at its new factory in Brandenburg, near Berlin, a spokesman for the U.S. carmaker said on Wednesday, after assurances it would not use too much water.
+The Ministry for Agriculture, Environment, and Climate Protection in the State of Brandenburg is expected to formally approve the construction plans towards the end of the year once the relevant applications have been filed.</description>
+    </item>
+    
+    <item>
+      <title>Tesla plans to offer machine-learning training as web service with its new ‘Dojo’ supercomputer</title>
+      <link>https://aakatev.github.io/hugo-press/posts/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aakatev.github.io/hugo-press/posts/tesla-offer-machine-learning-training-as-web-service-dojo-supercomputer/</guid>
+      <description>Tesla plans to offer machine-learning training as a web service with its new ‘Dojo’ supercomputer, according to new comments from CEO Elon Musk.
+Project “Dojo” was first announced by Musk at Tesla’s Autonomy Day last year:
+ We do have a major program at Tesla which we don’t have enough time to talk about today called “Dojo.” That’s a super powerful training computer. The goal of Dojo will be to be able to take in vast amounts of data and train at a video level and do unsupervised massive training of vast amounts of video with the Dojo program — or Dojo computer.</description>
+    </item>
+    
+  </channel>
+</rss>
